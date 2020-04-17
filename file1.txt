@@ -7,3 +7,4 @@ Feature1, коммит 2
 Мастер, коммит 5
 Origin/master, коммит 1
 Origin/master, коммит 2
+Feature2, коммит 1
